@@ -1,0 +1,3 @@
+01 - Crie um script python que peça o nome de uma pessoa e de as boas vindas a ela.
+02 - Crie um script python que leia o dia, mes e ano de nascimento de uma pessoa e mostre na tela a data formatada.
+03 - Crue um script python que leia dois números e tente mostrar a soma entre eles.
